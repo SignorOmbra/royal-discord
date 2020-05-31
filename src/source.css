@@ -1,3 +1,16 @@
+/**
+
+ * @name Royal
+ * @version 1.0
+ * @description Royal purple theme for Discord.
+ * @source https://github.com/SignorOmbra/royal-discord/
+ * @authorId 716760031638585376
+ * @author SignorOmbra
+ * @donate https://paypal.me/SignorOmbra
+ * @invite aPfdhQq
+
+**/
+
 :root {
     --background-dark-primary: rgb(89, 0, 255) !important;		
     --background-dark-secondary: rgb(66, 0, 189) !important;
