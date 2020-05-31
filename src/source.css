@@ -1,17 +1,17 @@
 :root {
-    --background-dark-primary: rgb(98, 37, 209) !important;		
-    --background-dark-secondary: rgb(60, 0, 170) !important;		
-    --background-dark-tertiary: #0c0c0c !important;	
-    --background-primary: #141414 !important;	
-    --background-secondary: #111111 !important;	
-    --background-secondary-alt: #292929 !important;
-    --background-tertiary: #0c0c0c !important;	
-    --background-floating: black !important;
-    --background-modifier-hover: rgba(50,50,50,0.16) !important;	
-    --background-modifier-active: rgba(50,50,50,0.24) !important;	
-    --background-modifier-selected: rgba(50,50,50,0.32) !important;	
-    --background-modifier-accent: hsla(0,0%,100%,0.06) !important;
-    --channeltextarea-background: #202020 !important;
+    --background-dark-primary: rgb(89, 0, 255) !important;		
+    --background-dark-secondary: rgb(66, 0, 189) !important;
+    --background-dark-tertiary: rgb(37, 0, 107) !important;	
+    --background-primary: rgb(32, 0, 92) !important;	
+    --background-secondary: rgb(27, 0, 77)!important;	
+    --background-secondary-alt: rgb(43, 0, 124) !important;
+    --background-tertiary: rgb(37, 0, 107) !important;	
+    --background-floating: rgba(35, 0, 100) !important;
+    --background-modifier-hover: rgba(119, 0, 255, 0.404) !important;	
+    --background-modifier-active: rgba(162, 0, 255, 0.24) !important;	
+    --background-modifier-selected: rgba(140, 0, 255, 0.219) !important;	
+    --background-modifier-accent: rgba(119, 0, 255, 0.06) !important;
+    --channeltextarea-background: #3d00a042 !important;
 }
 
 .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerThemed-2oenus.themeDark-2cjlUp .scroller-2FKFPG::-webkit-scrollbar-thumb {
@@ -71,8 +71,8 @@
 }
 
 .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
-    background-color: #0c0c0c;
-    color: hsla(0,0%,100%,.8);
+    background-color: rgb(60, 0, 170);
+    color: rgba(255, 255, 255, 0.418);
 }
 
 .theme-dark .headerNormal-T_seeN {
@@ -115,7 +115,7 @@
 	width: 50px;
 	height: 50px;
 	margin: 8px 0 0 0 !important;
-	background: #2f3136 !important;
+	background: #5900ff !important;
 	border-radius: 25px;
 	transition: 250ms ease all;
 }
