@@ -1,14 +1,9 @@
 # Dark Discord
-An actual dark mode for discord.
+A royal purple theme for discord, fork of dark-discord.
 
 # Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3270)
-- [Powercord](https://github.com/zzzmario/dark-discord/blob/master/Dark%20Discord.zip?raw=true)
+coming soon
 
 # Preview
-<img src="https://i.imgur.com/XjXTKPL.png"/>
-
-# Support 
-- [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#9999 
+also coming soon lol
 
