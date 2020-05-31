@@ -1,6 +1,6 @@
 :root {
-    --background-dark-primary: #141414 !important;		
-    --background-dark-secondary: #111111 !important;		
+    --background-dark-primary: rgb(98, 37, 209) !important;		
+    --background-dark-secondary: rgb(60, 0, 170) !important;		
     --background-dark-tertiary: #0c0c0c !important;	
     --background-primary: #141414 !important;	
     --background-secondary: #111111 !important;	
