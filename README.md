@@ -4,8 +4,8 @@ A royal purple theme for discord, fork of dark-discord.
 ...I *suck* at CSS.
 
 # Downloads
-coming soon
+https://github.com/SignorOmbra/royal-discord/releases
 
 # Preview
-also coming soon lol
+coming soon lol
 
